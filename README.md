@@ -25,7 +25,9 @@ This project contains three files:
 In a terminal or command window, navigate to the project directory `boston_housing/` and run one of the following commands:
 
 ```jupyter notebook boston_housing.ipynb```
+
 or
+
 ```ipython notebook boston_housing.ipynb```  
 
 This will open the Notebook software and project file in your browser.
