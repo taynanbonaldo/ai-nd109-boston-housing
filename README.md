@@ -6,8 +6,11 @@
 This project requires **Python 3.7.1** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+
+You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
 ### Code
 
@@ -22,7 +25,7 @@ This project contains three files:
 In a terminal or command window, navigate to the project directory `boston_housing/` and run one of the following commands:
 
 ```jupyter notebook boston_housing.ipynb```
-
+or
 ```ipython notebook boston_housing.ipynb```  
 
 This will open the Notebook software and project file in your browser.
