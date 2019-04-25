@@ -1,7 +1,7 @@
-#Machine Learning Engineer Nanodegree
-##Model Evaluation & Validation
+# Machine Learning Engineer Nanodegree
+## Model Evaluation & Validation
 
-###Project: Predicting Boston Housing Prices
+### Project: Predicting Boston Housing Prices
 
 This project requires **Python 3.7.1** and the following Python libraries installed:
 
